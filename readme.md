@@ -1,8 +1,10 @@
+
+
 ### M3U8 Playlist
 - ```https://iptv-scraper-re.vercel.app/roxiestreams```
 - ```https://iptv-scraper-re.vercel.app/ppvland```
   - ```/ppvland?timezone=pt  |  ["pt", "mt", "et", "gmt", "cet", "pht"]```
-  - ```/ppvpland?proxy=base64_encoded_proxy```
+  - ```/ppvland?proxy=base64_encoded_proxy```
 - ```https://iptv-scraper-re.vercel.app/streambtw```
 - ```https://iptv-scraper-re.vercel.app/nbawebcast```
 - ```https://iptv-scraper-re.vercel.app/mlbwebcast```
@@ -41,4 +43,3 @@
 
 
 Join our discord: https://discord.gg/aVuhm62hFU (#iptv)
-
